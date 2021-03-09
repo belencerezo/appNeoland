@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">appNeoland</string>
+    <string name="recordar_usuario">Recordar usuario</string>
+    <string name="introduce_tu_usuario">Introduce tu usuario</string>
+</resources>

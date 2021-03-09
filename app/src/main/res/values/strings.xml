@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appNeoland</string>
+    <string name="neoland" translatable="false">NEOLAND</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="introduce_tu_usuario">Enter your email</string>
+    <string name="recordar_usuario">Remember user</string>
+</resources>
